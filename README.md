@@ -1,3 +1,7 @@
+# This fork is for Blue Robotics internal use only.
+
+For releases, issues, or pull requests, please refer to the upstream repository [mavlink/QGroundControl](https://github.com/mavlink/qgroundcontrol).
+
 # QGroundControl Ground Control Station
 
 ## Open Source Micro Air Vehicle Ground Control Station
