@@ -1,4 +1,5 @@
-# This fork is for Blue Robotics internal use only.
+~~# This fork is for Blue Robotics internal use only.~~
+# This fork is to add features to QGC for our build
 
 For releases, issues, or pull requests, please refer to the upstream repository [mavlink/QGroundControl](https://github.com/mavlink/qgroundcontrol).
 
